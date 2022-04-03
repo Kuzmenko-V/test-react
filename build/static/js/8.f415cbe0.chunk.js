@@ -1,0 +1,2 @@
+(this["webpackJsonptest-react"]=this["webpackJsonptest-react"]||[]).push([[8],{71:function(t,e,c){"use strict";c.r(e),c.d(e,"default",(function(){return r}));var n=c(1);function r(){return Object(n.jsx)("div",{children:Object(n.jsx)("h1",{children:"\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u043d\u0430 \u043d\u0430\u0448 \u0441\u0435\u0440\u0432\u0438\u0441!"})})}}}]);
+//# sourceMappingURL=8.f415cbe0.chunk.js.map

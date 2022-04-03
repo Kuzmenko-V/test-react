@@ -1,0 +1,58 @@
+.userDetailsPage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 1200px;
+  margin: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.userPoster img {
+  width: 400px;
+}
+.userButton { margin-bottom: 10px;
+  background-color:  cornflowerblue;
+  text-decoration: none;
+  width: min-content;
+  text-align: center;
+padding: 10px;
+border: 1px solid #000;
+border-radius: 5px;
+font-size: 16px;}
+
+.userInfo {
+  display: flex;
+flex-direction: column;
+  width: 300px;
+}
+.userInfo p,
+span {
+  margin-left: 20px;
+}
+.Contein {
+  margin: auto;
+  max-width: 1400px;
+}
+
+
+.Overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.9);
+  z-index: 1200;
+}
+
+.Modal {  
+  color: aqua;
+  /* background-color: #ffffff; */
+  max-width: calc(100vw - 48px);
+  max-height: calc(100vh - 24px);
+}
+ .Modal h1 {text-align: center;}

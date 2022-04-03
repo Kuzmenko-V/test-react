@@ -1,0 +1,1 @@
+{"version":3,"sources":["Components/Main/Main.js"],"names":["Main"],"mappings":"yKAAe,SAASA,IACvB,OACG,8BACE","file":"static/js/8.f415cbe0.chunk.js","sourcesContent":["export default function Main() {\n return (\n    <div>\n      <h1>Добро пожаловать на наш сервис!</h1>\n    </div>\n  )\n};"],"sourceRoot":""}
